@@ -5,8 +5,8 @@ if len(sys.argv) != 3:
 else:
     num1=20
     num2=30
-num1 = float(sys.argv[1])
-num2 = float(sys.argv[2])
+    num1 = float(sys.argv[1])
+    num2 = float(sys.argv[2])
 
 if num1 > num2:
     print(num1, "is greater")
