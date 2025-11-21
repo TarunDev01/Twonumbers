@@ -1,6 +1,6 @@
 import sys
 if len(sys.argv) != 3:
-    print("Usage: python program.py <num1> <num2>")
+    print("Usage: python Twonumber.py <num1> <num2>")
     sys.exit()
 else:
     num1=20
