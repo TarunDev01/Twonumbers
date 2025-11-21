@@ -1,6 +1,6 @@
 import sys
-default_num1 = 10
-default_num2 = 20
+default_num1 = 20
+default_num2 = 30
 if len(sys.argv) == 3:
     num1 = float(sys.argv[1])
     num2 = float(sys.argv[2])
