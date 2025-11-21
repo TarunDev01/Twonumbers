@@ -1,10 +1,10 @@
 import sys
 if len(sys.argv) != 3:
     print("Usage: python Twonumber.py <num1> <num2>")
-    sys.exit()
-else:
+    else:
     num1=20
     num2=30
+    sys.exit()
     num1 = float(sys.argv[1])
     num2 = float(sys.argv[2])
 
